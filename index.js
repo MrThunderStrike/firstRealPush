@@ -1,1 +1,1 @@
-alert("hello git")
+alert("Hello git! What's new?")
